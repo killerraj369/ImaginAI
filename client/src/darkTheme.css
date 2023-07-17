@@ -1,0 +1,18 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #333333;
+  }
+  
+  .dark-theme {
+    --bg-color: #222222;
+    --text-color: #ffffff;
+  }
+  
+  .app {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  /* Additional styles for your website */
+  /* ... */
+  
